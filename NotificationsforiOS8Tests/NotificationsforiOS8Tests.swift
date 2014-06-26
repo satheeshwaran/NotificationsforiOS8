@@ -3,7 +3,7 @@
 //  NotificationsforiOS8Tests
 //
 //  Created by Satheeshwaran on 6/25/14.
-//  Copyright (c) 2014 Cognizant. All rights reserved.
+//  Copyright (c) 2014 Satheeshwaran. All rights reserved.
 //
 
 import XCTest
