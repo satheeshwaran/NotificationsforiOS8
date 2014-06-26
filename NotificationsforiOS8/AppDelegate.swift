@@ -22,6 +22,16 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             UIUserNotificationType.Badge, categories: nil))
         
         
+        /* ObjC syntax!!!!
+        - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+        {
+        [application registerUserNotificationSettings:[UIUserNotificationSettings settingsForTypes:UIUserNotificationTypeAlert|UIUserNotificationTypeBadge|UIUserNotificationTypeSound categories:nil]]
+        
+        // Override point for customization after application launch.
+        return YES;
+        }
+        */
+        
         // Override point for customization after application launch.
         return true
     }
